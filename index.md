@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
 Privacy Policy
 
 Your privacy is important to us. It is VPN : Best's policy to respect your privacy regarding any information we may collect from you through our app, VPN : Best.
@@ -99,11 +95,3 @@ VPN : Best may revise these terms of service for its app at any time without not
 8. Governing Law
 
 These terms and conditions are governed by and construed in accordance with the laws of Haryana and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
-
-
-
-<iframe src="https://aryansbtloe.github.io/aryansbtloe.com/" title="" width = 600 , height = 1200>
-</iframe>
-
-</body>
-</html>
